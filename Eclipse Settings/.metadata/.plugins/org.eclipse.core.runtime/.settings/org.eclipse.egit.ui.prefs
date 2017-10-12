@@ -1,0 +1,2 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Rename</message>\r\n<message>Login as admin</message>\r\n<message>Added hasBetalt</message>\r\n<message>Added register payment</message>\r\n<message>Added comments</message>\r\n<message>typo</message>\r\n<message>Added registerUtil</message>\r\n<message>Added error messages</message>\r\n<message>Added wrong input support with cookies</message>\r\n<message>Added display user data</message>\r\n</messages>
+eclipse.preferences.version=1
